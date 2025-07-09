@@ -7,7 +7,8 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/yourusername/black_stage" target="_blank">
+    <a href="https://github.com/jamalihassan0307/
+    black-Stage" target="_blank">
         <img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
